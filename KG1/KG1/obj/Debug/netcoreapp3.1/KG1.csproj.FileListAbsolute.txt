@@ -1,0 +1,17 @@
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\obj\Debug\netcoreapp3.1\KG1.csprojAssemblyReference.cache
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\obj\Debug\netcoreapp3.1\KG1_MarkupCompile.cache
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\obj\Debug\netcoreapp3.1\KG1_MarkupCompile.lref
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\bin\Debug\netcoreapp3.1\KG1.exe
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\bin\Debug\netcoreapp3.1\KG1.deps.json
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\bin\Debug\netcoreapp3.1\KG1.runtimeconfig.json
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\bin\Debug\netcoreapp3.1\KG1.runtimeconfig.dev.json
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\bin\Debug\netcoreapp3.1\KG1.dll
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\bin\Debug\netcoreapp3.1\KG1.pdb
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\obj\Debug\netcoreapp3.1\KG1.g.resources
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\obj\Debug\netcoreapp3.1\KG1.AssemblyInfoInputs.cache
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\obj\Debug\netcoreapp3.1\KG1.AssemblyInfo.cs
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\obj\Debug\netcoreapp3.1\KG1.dll
+D:\Studying\3 курс\6 семестр\KG\KG1\KG1\obj\Debug\netcoreapp3.1\KG1.pdb
